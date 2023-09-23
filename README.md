@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ivoxytryer
-- 👀 I’m interested in Golang, Python, cpp
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @shadxwkilla-tg
+-ivoxytryer
+@shadxwkilla-tg
+cpp,python
+study golang
+isuct
 
 <!---
 ivoxytryer/ivoxytryer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
