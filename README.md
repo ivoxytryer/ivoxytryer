@@ -1,7 +1,5 @@
 -ivoxytryer
 
-@shadxwkilla-tg
-
 cpp,python
 
 study golang
