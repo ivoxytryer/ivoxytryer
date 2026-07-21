@@ -1,8 +1,7 @@
 -ivoxytryer
 
-cpp,python
+js, py
 
-study golang
 
 isuct
 
